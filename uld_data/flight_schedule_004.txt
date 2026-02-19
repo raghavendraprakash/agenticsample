@@ -1,0 +1,15 @@
+FLIGHT SCHEDULE DATA
+====================
+
+Flight Number: EK234
+Departure Date: 2026-02-20
+Departure Time: 22:15
+Origin: DXB (Dubai)
+Destination: SYD (Sydney)
+Aircraft Type: A330-300
+Aircraft Registration: A6-EKM
+Point of Loading (POL): DXB
+Estimated Flight Time: 13h 45m
+Maximum Cargo Capacity: 14800 kg
+Available ULD Positions: 24
+Status: Scheduled

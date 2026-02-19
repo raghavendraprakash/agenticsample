@@ -1,0 +1,29 @@
+AIR WAYBILL (AWB) SHIPMENT DATA
+================================
+
+AWB Number: 020-12345680
+Shipper: Heavy Machinery Corp
+Consignee: Singapore Industrial Park
+Origin: FRA (Frankfurt)
+Destination: SIN (Singapore)
+Flight: LH789
+Booking Date: 2026-02-18
+
+CARGO DETAILS:
+Number of Pieces: 3
+Total Weight: 1850 kg
+Total Volume: 4.2 cubic meters
+
+PIECE BREAKDOWN:
+Piece 1: 200 x 150 x 120 cm, 650 kg
+Piece 2: 200 x 150 x 120 cm, 620 kg
+Piece 3: 180 x 140 x 100 cm, 580 kg
+
+HANDLING CODES:
+- Heavy (HEA)
+- Large (LAR)
+
+PRIORITY: Standard
+SPECIAL INSTRUCTIONS: Requires reinforced ULD, secure fastening mandatory
+COMMODITY: Industrial machinery parts
+VALUE: USD 280,000

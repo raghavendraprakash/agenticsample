@@ -1,0 +1,30 @@
+AIR WAYBILL (AWB) SHIPMENT DATA
+================================
+
+AWB Number: 020-12345678
+Shipper: TechCorp Electronics Inc.
+Consignee: European Distribution Center
+Origin: JFK (New York)
+Destination: LHR (London)
+Flight: AA1234
+Booking Date: 2026-02-18
+
+CARGO DETAILS:
+Number of Pieces: 5
+Total Weight: 850 kg
+Total Volume: 2.8 cubic meters
+
+PIECE BREAKDOWN:
+Piece 1: 120 x 100 x 80 cm, 180 kg
+Piece 2: 120 x 100 x 80 cm, 175 kg
+Piece 3: 120 x 100 x 80 cm, 170 kg
+Piece 4: 100 x 80 x 60 cm, 165 kg
+Piece 5: 100 x 80 x 60 cm, 160 kg
+
+HANDLING CODES:
+- General Cargo (GEN)
+
+PRIORITY: Standard
+SPECIAL INSTRUCTIONS: Fragile electronics, handle with care
+COMMODITY: Computer servers and networking equipment
+VALUE: USD 125,000

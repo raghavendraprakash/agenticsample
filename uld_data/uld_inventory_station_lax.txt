@@ -1,0 +1,79 @@
+ULD INVENTORY - STATION LAX
+============================
+
+Station: LAX (Los Angeles International Airport)
+Date: 2026-02-20
+Time: 06:00 UTC
+
+AVAILABLE ULD INVENTORY:
+
+AKE (LD3) Containers:
+- Total Available: 52 units
+- Serviceable: 48 units
+- Under Maintenance: 4 units
+- Average Condition: Excellent
+- Last Inspection: 2026-02-17
+
+AAA (LD7) Containers:
+- Total Available: 35 units
+- Serviceable: 33 units
+- Under Maintenance: 2 units
+- Average Condition: Good
+- Last Inspection: 2026-02-18
+
+AKN (LD8) Containers:
+- Total Available: 28 units
+- Serviceable: 26 units
+- Under Maintenance: 2 units
+- Average Condition: Good
+- Last Inspection: 2026-02-16
+
+AAP (LD6) Containers:
+- Total Available: 20 units
+- Serviceable: 19 units
+- Under Maintenance: 1 unit
+- Average Condition: Good
+- Last Inspection: 2026-02-15
+
+AMA (LD9) Containers:
+- Total Available: 15 units
+- Serviceable: 14 units
+- Under Maintenance: 1 unit
+- Average Condition: Excellent
+- Last Inspection: 2026-02-19
+
+PMC Pallets (96x125):
+- Total Available: 22 units
+- Serviceable: 20 units
+- Under Maintenance: 2 units
+- Average Condition: Good
+- Last Inspection: 2026-02-14
+
+SPECIAL EQUIPMENT:
+
+Refrigerated Containers (RKN):
+- Total Available: 8 units
+- Serviceable: 7 units
+- Temperature Range: -20°C to +20°C
+
+AVI Containers (Live Animals):
+- Total Available: 5 units
+- Serviceable: 5 units
+- Features: Ventilation, water access, climate control
+
+UTILIZATION STATISTICS (Last 7 Days):
+- Average Daily Usage: 95 ULDs
+- Peak Usage: 128 ULDs (Monday)
+- Lowest Usage: 62 ULDs (Sunday)
+- Turnaround Time: 3.8 hours average
+
+MAINTENANCE SCHEDULE:
+- Routine inspections: Daily
+- Deep cleaning: Weekly
+- Structural inspection: Monthly
+- Certification renewal: Annually
+
+NOTES:
+- High demand for refrigerated containers due to perishable seafood exports
+- AKE containers most frequently used for electronics shipments
+- Increased AMA inventory to support heavy machinery exports

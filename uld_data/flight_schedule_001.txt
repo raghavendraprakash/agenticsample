@@ -1,0 +1,15 @@
+FLIGHT SCHEDULE DATA
+====================
+
+Flight Number: AA1234
+Departure Date: 2026-02-20
+Departure Time: 08:30
+Origin: JFK (New York)
+Destination: LHR (London)
+Aircraft Type: B777-300ER
+Aircraft Registration: N12345
+Point of Loading (POL): JFK
+Estimated Flight Time: 7h 15m
+Maximum Cargo Capacity: 18500 kg
+Available ULD Positions: 32
+Status: Scheduled

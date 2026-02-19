@@ -1,0 +1,42 @@
+ULD SPECIFICATION
+=================
+
+ULD Type: AKE (LD3)
+IATA Code: AKE
+Common Name: LD3 Container
+
+DIMENSIONS:
+External Length: 156 cm (61.5 in)
+External Width: 153 cm (60.4 in)
+External Height: 163 cm (64 in)
+Internal Length: 150 cm (59 in)
+Internal Width: 147 cm (58 in)
+Internal Height: 157 cm (62 in)
+
+WEIGHT SPECIFICATIONS:
+Tare Weight: 85 kg (187 lbs)
+Maximum Gross Weight: 1588 kg (3500 lbs)
+Maximum Net Weight: 1503 kg (3313 lbs)
+Structural Weight Limit: 1150 kg
+
+VOLUME:
+Internal Volume: 3.5 cubic meters (123 cubic feet)
+
+COMPATIBLE AIRCRAFT:
+- Boeing 737, 747, 757, 767, 777, 787
+- Airbus A300, A310, A320, A330, A340, A350, A380
+- McDonnell Douglas DC-10, MD-11
+
+HANDLING CHARACTERISTICS:
+- Contoured shape fits aircraft fuselage
+- Suitable for general cargo
+- Can accommodate palletized goods
+- Compatible with most handling codes
+
+OVERHANG LIMITS:
+Front: 0 cm
+Rear: 0 cm
+Sides: 0 cm
+Top: 5 cm maximum
+
+STATION INVENTORY: 45 units available

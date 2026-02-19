@@ -1,0 +1,29 @@
+AIRCRAFT CONFIGURATION
+======================
+
+Aircraft Type: Boeing 767-400ER
+IATA Code: 764
+Cargo Compartment Layout:
+
+FORWARD CARGO HOLD:
+- Position F1-F4: AKE, LD3 (4 positions)
+- Position F5-F6: AKE, LD3, AAA (2 positions)
+
+AFT CARGO HOLD:
+- Position A1-A8: AKE, LD3, AAA (8 positions)
+- Position A9-A10: AKE, LD3 (2 positions)
+
+BULK CARGO:
+- Position B1-B6: Loose cargo (6 positions)
+
+Total ULD Positions: 22
+Maximum Cargo Weight: 12600 kg
+Maximum Cargo Volume: 138 cubic meters
+Structural Weight Limit per Position: 1100 kg
+Floor Loading Limit: 683 kg/m²
+
+Compatible ULD Types:
+- AKE (LD3)
+- AAA (LD7)
+- AKN (LD8)
+- AAP (LD6)

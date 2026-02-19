@@ -1,0 +1,68 @@
+HISTORICAL LOADING PATTERN ANALYSIS
+====================================
+
+Route: LAX (Los Angeles) to NRT (Tokyo)
+Aircraft Type: A350-900
+Analysis Period: Last 90 days
+Sample Size: 165 flights
+
+AVERAGE LOAD CHARACTERISTICS:
+Total ULDs per Flight: 22-26 (out of 28 positions)
+Average Cargo Weight: 13,800 kg (85% of capacity)
+Average Volume Utilization: 78%
+
+ULD TYPE DISTRIBUTION:
+AKE (LD3): 70% of positions
+AAA (LD7): 22% of positions
+AKN (LD8): 6% of positions
+AAP (LD6): 2% of positions
+
+CARGO MIX PATTERNS:
+Electronics: 35%
+Automotive Parts: 25%
+Perishables (seafood): 18%
+General Cargo: 15%
+Other: 7%
+
+POSITION UTILIZATION PATTERNS:
+Forward Positions (F1-F8): 98% utilization
+- High-value electronics preferred
+- Average weight: 580 kg per position
+
+Aft Positions (A1-A10): 92% utilization
+- Mixed cargo, automotive parts common
+- Average weight: 620 kg per position
+
+Rear Positions (R1-R6): 75% utilization
+- General cargo and late bookings
+- Average weight: 480 kg per position
+
+PEAK LOADING DAYS:
+Monday: 95% capacity
+Tuesday: 92% capacity
+Wednesday: 88% capacity
+Thursday: 90% capacity
+Friday: 94% capacity
+Weekend: 72% capacity
+
+SEASONAL PATTERNS:
+Q1: High electronics volume (post-holiday)
+Q2: Balanced mix
+Q3: Increased automotive parts
+Q4: Peak electronics (holiday season)
+
+COMMON LOADING SEQUENCES:
+1. Temperature-sensitive cargo (seafood) in forward positions
+2. High-value electronics in secure positions
+3. Automotive parts in aft positions
+4. General cargo fills gaps
+
+WEIGHT DISTRIBUTION:
+Forward: 32% of total weight
+Center: 42% of total weight
+Aft: 26% of total weight
+
+OPTIMIZATION OPPORTUNITIES:
+- Consolidate electronics shipments into LD7 containers (12% efficiency gain)
+- Improve rear position utilization (current 75% vs 92% average)
+- Better segregation of perishables could reduce handling time by 15 minutes

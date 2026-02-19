@@ -1,0 +1,60 @@
+DIMENSIONAL CONSTRAINT VALIDATION RULES
+========================================
+
+RULE 001: Maximum Single Piece Dimensions
+- No single piece shall exceed ULD internal dimensions
+- Length: Must not exceed ULD internal length
+- Width: Must not exceed ULD internal width
+- Height: Must not exceed ULD internal height + overhang allowance
+- Violation Level: Critical
+
+RULE 002: Overhang Limits - AKE/LD3
+- Top overhang: Maximum 5 cm
+- Side overhang: 0 cm (not permitted)
+- Front/Rear overhang: 0 cm (not permitted)
+- Violation Level: Critical
+
+RULE 003: Overhang Limits - AAA/LD7
+- Top overhang: Maximum 5 cm
+- Side overhang: 0 cm (not permitted)
+- Front/Rear overhang: 0 cm (not permitted)
+- Violation Level: Critical
+
+RULE 004: Overhang Limits - AMA/LD9
+- Top overhang: Maximum 5 cm
+- Side overhang: 0 cm (not permitted)
+- Front/Rear overhang: 0 cm (not permitted)
+- Violation Level: Critical
+
+RULE 005: Weight Distribution
+- Center of gravity must be within middle 60% of ULD length
+- Maximum weight concentration: 500 kg per square meter
+- Violation Level: High
+
+RULE 006: Stacking Height
+- Total stacked height must not exceed ULD internal height + overhang
+- Heavy items must be on bottom
+- Violation Level: High
+
+RULE 007: Volume Utilization
+- Minimum utilization: 60% for standard cargo
+- Maximum utilization: 95% (allow for securing)
+- Violation Level: Medium
+
+RULE 008: Piece Count Limits
+- AKE/LD3: Maximum 15 pieces
+- AAA/LD7: Maximum 25 pieces
+- AMA/LD9: Maximum 35 pieces
+- Violation Level: Medium
+
+RULE 009: Mixed Commodity Restrictions
+- Dangerous goods must be segregated
+- Live animals cannot be mixed with other cargo
+- Perishables must be grouped together
+- Violation Level: Critical
+
+RULE 010: Fragile Cargo Placement
+- Fragile items must be on top layer
+- No heavy items above fragile cargo
+- Minimum 10 cm clearance from ULD walls
+- Violation Level: High

@@ -1,0 +1,33 @@
+AIRCRAFT CONFIGURATION
+======================
+
+Aircraft Type: Boeing 747-8F (Freighter)
+IATA Code: 74Y
+Cargo Compartment Layout:
+
+MAIN DECK:
+- Position M1-M10: PMC pallets, AAP (10 positions)
+- Position M11-M20: PMC pallets, AAP, AMA (10 positions)
+
+LOWER DECK FORWARD:
+- Position LF1-LF6: AKE, LD3, AAA (6 positions)
+
+LOWER DECK AFT:
+- Position LA1-LA8: AKE, LD3, AAA, AMA (8 positions)
+
+BULK CARGO:
+- Position B1-B4: Loose cargo (4 positions)
+
+Total ULD Positions: 38
+Maximum Cargo Weight: 24500 kg
+Maximum Cargo Volume: 858 cubic meters
+Structural Weight Limit per Position: 1500 kg (main deck), 1200 kg (lower deck)
+Floor Loading Limit: 1464 kg/m² (main deck), 732 kg/m² (lower deck)
+
+Compatible ULD Types:
+- PMC (96x125 pallets)
+- AAP (LD6)
+- AMA (LD9)
+- AKE (LD3)
+- AAA (LD7)
+- AKN (LD8)

@@ -1,0 +1,33 @@
+AIRCRAFT CONFIGURATION
+======================
+
+Aircraft Type: Airbus A330-300
+IATA Code: 333
+Cargo Compartment Layout:
+
+FORWARD CARGO HOLD:
+- Position F1-F3: AKE, LD3 (3 positions)
+- Position F4-F6: AKE, LD3, AAA (3 positions)
+
+AFT CARGO HOLD:
+- Position A1-A6: AKE, LD3, AAA (6 positions)
+- Position A7-A9: AKE, LD3 (3 positions)
+
+REAR CARGO HOLD:
+- Position R1-R5: AKE, LD3 (5 positions)
+
+BULK CARGO:
+- Position B1-B4: Loose cargo (4 positions)
+
+Total ULD Positions: 24
+Maximum Cargo Weight: 14800 kg
+Maximum Cargo Volume: 150 cubic meters
+Structural Weight Limit per Position: 1150 kg
+Floor Loading Limit: 710 kg/m²
+
+Compatible ULD Types:
+- AKE (LD3)
+- AAA (LD7)
+- AKN (LD8)
+- AAP (LD6)
+- AMA (LD9)

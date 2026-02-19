@@ -1,0 +1,66 @@
+HANDLING CODE COMPATIBILITY RULES
+==================================
+
+HANDLING CODE DEFINITIONS:
+
+HEA - Heavy Cargo
+- Weight per piece > 150 kg
+- Requires reinforced ULD
+- Special handling equipment needed
+- Cannot be stacked
+
+DGR - Dangerous Goods
+- IATA regulated materials
+- Requires segregation from other cargo
+- Special labeling and documentation
+- Position restrictions apply
+
+AVI - Live Animals
+- Requires ventilation
+- Temperature control needed
+- Cannot be mixed with other cargo
+- Priority loading/unloading
+- Maximum transit time restrictions
+
+PER - Perishable Cargo
+- Temperature-sensitive
+- Time-critical handling
+- Requires cool chain maintenance
+- Priority processing
+
+LAR - Large/Oversized Cargo
+- Exceeds standard dimensions
+- May require special ULD or loose loading
+- Overhang considerations
+- Limited position compatibility
+
+COMPATIBILITY MATRIX:
+
+HEA + DGR: Prohibited (unless DGR is also heavy)
+HEA + AVI: Prohibited
+HEA + PER: Allowed with restrictions
+HEA + LAR: Allowed (often overlapping)
+
+DGR + AVI: Prohibited (strict segregation)
+DGR + PER: Prohibited (contamination risk)
+DGR + LAR: Allowed with proper securing
+
+AVI + PER: Prohibited (cross-contamination)
+AVI + LAR: Allowed if ventilation maintained
+
+PER + LAR: Allowed with proper temperature control
+
+ULD TYPE RESTRICTIONS:
+
+HEA: Requires AAA (LD7) or AMA (LD9) with reinforced floor
+DGR: Any ULD type, but position restrictions apply
+AVI: Requires ventilated ULD or special AVI containers
+PER: Requires insulated or refrigerated ULD
+LAR: May require PMC pallets or loose loading
+
+POSITION RESTRICTIONS:
+
+DGR Class 1 (Explosives): Aft positions only, minimum 2 positions from exits
+DGR Class 7 (Radioactive): Minimum 1 meter from crew/passenger areas
+AVI: Forward positions preferred for climate control access
+PER: Positions with temperature monitoring capability

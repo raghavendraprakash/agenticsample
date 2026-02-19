@@ -1,0 +1,15 @@
+FLIGHT SCHEDULE DATA
+====================
+
+Flight Number: LH789
+Departure Date: 2026-02-20
+Departure Time: 18:20
+Origin: FRA (Frankfurt)
+Destination: SIN (Singapore)
+Aircraft Type: B747-8F
+Aircraft Registration: D-ABYA
+Point of Loading (POL): FRA
+Estimated Flight Time: 12h 05m
+Maximum Cargo Capacity: 24500 kg
+Available ULD Positions: 38
+Status: Scheduled

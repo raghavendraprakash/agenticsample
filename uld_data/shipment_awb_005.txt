@@ -1,0 +1,29 @@
+AIR WAYBILL (AWB) SHIPMENT DATA
+================================
+
+AWB Number: 020-12345682
+Shipper: Exotic Pets International
+Consignee: Paris Zoological Society
+Origin: ORD (Chicago)
+Destination: CDG (Paris)
+Flight: UA567
+Booking Date: 2026-02-19
+
+CARGO DETAILS:
+Number of Pieces: 4
+Total Weight: 320 kg
+Total Volume: 1.8 cubic meters
+
+PIECE BREAKDOWN:
+Piece 1: 100 x 80 x 80 cm, 85 kg
+Piece 2: 100 x 80 x 80 cm, 80 kg
+Piece 3: 90 x 70 x 70 cm, 78 kg
+Piece 4: 90 x 70 x 70 cm, 77 kg
+
+HANDLING CODES:
+- Live Animals (AVI)
+
+PRIORITY: Critical
+SPECIAL INSTRUCTIONS: Live tropical birds, temperature 18-24°C, ventilation required, no stacking
+COMMODITY: Live animals - tropical birds
+VALUE: USD 180,000

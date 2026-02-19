@@ -1,0 +1,34 @@
+AIR WAYBILL (AWB) SHIPMENT DATA
+================================
+
+AWB Number: 020-12345679
+Shipper: MedSupply International
+Consignee: Tokyo Medical Center
+Origin: LAX (Los Angeles)
+Destination: NRT (Tokyo)
+Flight: BA456
+Booking Date: 2026-02-18
+
+CARGO DETAILS:
+Number of Pieces: 8
+Total Weight: 420 kg
+Total Volume: 1.9 cubic meters
+
+PIECE BREAKDOWN:
+Piece 1: 80 x 60 x 50 cm, 55 kg
+Piece 2: 80 x 60 x 50 cm, 52 kg
+Piece 3: 80 x 60 x 50 cm, 54 kg
+Piece 4: 80 x 60 x 50 cm, 51 kg
+Piece 5: 70 x 50 x 40 cm, 50 kg
+Piece 6: 70 x 50 x 40 cm, 53 kg
+Piece 7: 70 x 50 x 40 cm, 52 kg
+Piece 8: 70 x 50 x 40 cm, 53 kg
+
+HANDLING CODES:
+- Perishable (PER)
+- Temperature Controlled
+
+PRIORITY: High
+SPECIAL INSTRUCTIONS: Keep refrigerated 2-8°C, time-sensitive medical supplies
+COMMODITY: Pharmaceutical products and vaccines
+VALUE: USD 450,000

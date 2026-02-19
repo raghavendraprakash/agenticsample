@@ -1,0 +1,46 @@
+FLIGHT BUILD LIST (FBL) - CURRENT ASSIGNMENTS
+==============================================
+
+Flight: AA1234
+Date: 2026-02-20
+Aircraft: B777-300ER (N12345)
+Route: JFK → LHR
+
+FORWARD CARGO HOLD:
+Position F1: AKE-12345 | AWB 020-12345678 | 850 kg | Electronics
+Position F2: AKE-12346 | AWB 020-12345690 | 720 kg | General Cargo
+Position F3: AKE-12347 | AWB 020-12345691 | 680 kg | Textiles
+Position F4: AKE-12348 | AWB 020-12345692 | 750 kg | Automotive Parts
+Position F5: AAA-23456 | AWB 020-12345693 | 1450 kg | Consolidated
+Position F6: AAA-23457 | AWB 020-12345694 | 1380 kg | Machinery
+Position F7: AKE-12349 | EMPTY | 0 kg | Available
+Position F8: AKE-12350 | EMPTY | 0 kg | Available
+
+AFT CARGO HOLD:
+Position A1: AAA-23458 | AWB 020-12345695 | 1520 kg | Heavy Machinery
+Position A2: AAA-23459 | AWB 020-12345696 | 1480 kg | Industrial Equipment
+Position A3: AKE-12351 | AWB 020-12345697 | 820 kg | Electronics
+Position A4: AKE-12352 | AWB 020-12345698 | 790 kg | General Cargo
+Position A5: AKE-12353 | AWB 020-12345699 | 760 kg | Textiles
+Position A6: AKE-12354 | AWB 020-12345700 | 810 kg | Automotive Parts
+Position A7: AKN-34567 | AWB 020-12345701 | 1150 kg | Consolidated
+Position A8: AKN-34568 | AWB 020-12345702 | 1120 kg | General Cargo
+Position A9: AKE-12355 | EMPTY | 0 kg | Available
+Position A10: AKE-12356 | EMPTY | 0 kg | Available
+Position A11: AKE-12357 | EMPTY | 0 kg | Available
+Position A12: AKE-12358 | EMPTY | 0 kg | Available
+
+REAR POSITIONS:
+Position R1: AKE-12359 | AWB 020-12345703 | 650 kg | General Cargo
+Position R2: AKE-12360 | AWB 020-12345704 | 620 kg | Textiles
+Position R3: AKE-12361 | EMPTY | 0 kg | Available
+Position R4: AKE-12362 | EMPTY | 0 kg | Available
+
+BULK CARGO:
+Position B1-B4: 380 kg loose cargo (documents, small parcels)
+
+SUMMARY:
+Total ULDs Loaded: 20 out of 32 positions
+Total Cargo Weight: 14,200 kg (77% of capacity)
+Available Positions: 12
+Available Weight Capacity: 4,300 kg

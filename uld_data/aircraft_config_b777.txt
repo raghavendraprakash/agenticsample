@@ -1,0 +1,31 @@
+AIRCRAFT CONFIGURATION
+======================
+
+Aircraft Type: Boeing 777-300ER
+IATA Code: 77W
+Cargo Compartment Layout:
+
+MAIN DECK POSITIONS:
+- Forward Cargo Hold: 8 positions (AKE, LD3, LD7 compatible)
+- Aft Cargo Hold: 12 positions (AKE, LD3, LD7, LD9 compatible)
+- Bulk Cargo Area: 4 positions (loose cargo)
+
+LOWER DECK POSITIONS:
+- Position 11L-14L: LD3, AKE (4 positions)
+- Position 21L-26L: LD3, AKE, LD7 (6 positions)
+- Position 31L-34L: LD3, AKE (4 positions)
+- Position 41R-46R: LD3, AKE, LD7 (6 positions)
+- Position 51R-54R: LD3, AKE (4 positions)
+
+Total ULD Positions: 32
+Maximum Cargo Weight: 18500 kg
+Maximum Cargo Volume: 175 cubic meters
+Structural Weight Limit per Position: 1200 kg
+Floor Loading Limit: 732 kg/m²
+
+Compatible ULD Types:
+- AKE (LD3)
+- AAA (LD7)
+- AMA (LD9)
+- AKN (LD8)
+- AAP (LD6)

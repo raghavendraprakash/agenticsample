@@ -1,0 +1,33 @@
+AIRCRAFT CONFIGURATION
+======================
+
+Aircraft Type: Airbus A350-900
+IATA Code: 359
+Cargo Compartment Layout:
+
+FORWARD CARGO HOLD:
+- Position F1-F4: AKE, LD3 (4 positions)
+- Position F5-F8: AKE, LD3, AAA (4 positions)
+
+AFT CARGO HOLD:
+- Position A1-A6: AKE, LD3, AAA (6 positions)
+- Position A7-A10: AKE, LD3 (4 positions)
+
+BULK CARGO HOLD:
+- Position B1-B4: Loose cargo (4 positions)
+
+REAR CARGO HOLD:
+- Position R1-R6: AKE, LD3 (6 positions)
+
+Total ULD Positions: 28
+Maximum Cargo Weight: 16200 kg
+Maximum Cargo Volume: 162 cubic meters
+Structural Weight Limit per Position: 1150 kg
+Floor Loading Limit: 710 kg/m²
+
+Compatible ULD Types:
+- AKE (LD3)
+- AAA (LD7)
+- AKN (LD8)
+- AAP (LD6)
+- AMA (LD9)

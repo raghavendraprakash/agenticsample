@@ -1,0 +1,15 @@
+FLIGHT SCHEDULE DATA
+====================
+
+Flight Number: UA567
+Departure Date: 2026-02-21
+Departure Time: 06:00
+Origin: ORD (Chicago)
+Destination: CDG (Paris)
+Aircraft Type: B767-400ER
+Aircraft Registration: N76065
+Point of Loading (POL): ORD
+Estimated Flight Time: 8h 20m
+Maximum Cargo Capacity: 12600 kg
+Available ULD Positions: 22
+Status: Scheduled

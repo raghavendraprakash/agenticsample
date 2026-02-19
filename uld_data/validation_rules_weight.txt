@@ -1,0 +1,49 @@
+STRUCTURAL WEIGHT VALIDATION RULES
+===================================
+
+RULE W001: ULD Maximum Gross Weight
+- Total weight (cargo + tare) must not exceed ULD max gross weight
+- AKE/LD3: 1588 kg maximum
+- AAA/LD7: 4626 kg maximum
+- AKN/LD8: 2449 kg maximum
+- AAP/LD6: 3176 kg maximum
+- AMA/LD9: 6804 kg maximum
+- Violation Level: Critical
+
+RULE W002: Aircraft Position Weight Limit
+- ULD weight must not exceed position structural limit
+- B777: 1200 kg per position
+- A350: 1150 kg per position
+- B747: 1500 kg (main), 1200 kg (lower)
+- B767: 1100 kg per position
+- A330: 1150 kg per position
+- Violation Level: Critical
+
+RULE W003: Floor Loading Limit
+- Weight per square meter must not exceed floor limit
+- B777: 732 kg/m²
+- A350: 710 kg/m²
+- B747: 1464 kg/m² (main), 732 kg/m² (lower)
+- B767: 683 kg/m²
+- A330: 710 kg/m²
+- Violation Level: Critical
+
+RULE W004: Total Aircraft Cargo Weight
+- Sum of all ULD weights must not exceed aircraft max cargo capacity
+- Includes tare weight of all ULDs
+- Violation Level: Critical
+
+RULE W005: Weight Balance
+- Forward/Aft weight distribution must be within 5% of target
+- Left/Right weight distribution must be within 2% of target
+- Violation Level: High
+
+RULE W006: Heavy Cargo Concentration
+- No more than 3 consecutive heavy ULDs (>1000 kg) in same row
+- Minimum 1 lighter ULD between heavy concentrations
+- Violation Level: Medium
+
+RULE W007: Single Piece Weight Limit
+- No single piece should exceed 70% of ULD max net weight
+- Facilitates handling and distribution
+- Violation Level: Medium

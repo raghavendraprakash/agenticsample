@@ -1,0 +1,15 @@
+FLIGHT SCHEDULE DATA
+====================
+
+Flight Number: BA456
+Departure Date: 2026-02-20
+Departure Time: 14:45
+Origin: LAX (Los Angeles)
+Destination: NRT (Tokyo)
+Aircraft Type: A350-900
+Aircraft Registration: G-XWBA
+Point of Loading (POL): LAX
+Estimated Flight Time: 11h 30m
+Maximum Cargo Capacity: 16200 kg
+Available ULD Positions: 28
+Status: Scheduled

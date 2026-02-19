@@ -1,0 +1,28 @@
+AIR WAYBILL (AWB) SHIPMENT DATA
+================================
+
+AWB Number: 020-12345681
+Shipper: ChemTech Solutions
+Consignee: Australian Research Lab
+Origin: DXB (Dubai)
+Destination: SYD (Sydney)
+Flight: EK234
+Booking Date: 2026-02-18
+
+CARGO DETAILS:
+Number of Pieces: 12
+Total Weight: 680 kg
+Total Volume: 2.1 cubic meters
+
+PIECE BREAKDOWN:
+Piece 1-6: 60 x 50 x 40 cm, 55 kg each
+Piece 7-12: 50 x 40 x 30 cm, 45 kg each
+
+HANDLING CODES:
+- Dangerous Goods (DGR)
+- UN 1760, Class 8, Packing Group II
+
+PRIORITY: High
+SPECIAL INSTRUCTIONS: Corrosive materials, special handling required, segregation rules apply
+COMMODITY: Laboratory chemicals
+VALUE: USD 95,000

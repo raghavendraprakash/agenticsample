@@ -1,0 +1,42 @@
+ULD SPECIFICATION
+=================
+
+ULD Type: AKN (LD8)
+IATA Code: AKN
+Common Name: LD8 Container
+
+DIMENSIONS:
+External Length: 244 cm (96 in)
+External Width: 153 cm (60.4 in)
+External Height: 163 cm (64 in)
+Internal Length: 238 cm (93.7 in)
+Internal Width: 147 cm (58 in)
+Internal Height: 157 cm (62 in)
+
+WEIGHT SPECIFICATIONS:
+Tare Weight: 105 kg (231 lbs)
+Maximum Gross Weight: 2449 kg (5400 lbs)
+Maximum Net Weight: 2344 kg (5169 lbs)
+Structural Weight Limit: 1588 kg
+
+VOLUME:
+Internal Volume: 5.5 cubic meters (194 cubic feet)
+
+COMPATIBLE AIRCRAFT:
+- Boeing 747, 767, 777, 787
+- Airbus A330, A340, A350, A380
+- McDonnell Douglas DC-10, MD-11
+
+HANDLING CHARACTERISTICS:
+- Medium-sized container
+- Versatile for various cargo types
+- Good for consolidated shipments
+- Widely compatible
+
+OVERHANG LIMITS:
+Front: 0 cm
+Rear: 0 cm
+Sides: 0 cm
+Top: 5 cm maximum
+
+STATION INVENTORY: 32 units available

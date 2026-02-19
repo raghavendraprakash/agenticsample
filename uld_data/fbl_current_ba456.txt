@@ -1,0 +1,46 @@
+FLIGHT BUILD LIST (FBL) - CURRENT ASSIGNMENTS
+==============================================
+
+Flight: BA456
+Date: 2026-02-20
+Aircraft: A350-900 (G-XWBA)
+Route: LAX → NRT
+
+FORWARD CARGO HOLD:
+Position F1: AKE-45678 | AWB 020-12345679 | 420 kg | Perishable (Medical)
+Position F2: AKE-45679 | AWB 020-12345705 | 580 kg | Electronics
+Position F3: AKE-45680 | AWB 020-12345706 | 620 kg | Electronics
+Position F4: AAA-56789 | AWB 020-12345707 | 1380 kg | Automotive Parts
+Position F5: AAA-56790 | AWB 020-12345708 | 1420 kg | Consolidated
+Position F6: AKE-45681 | AWB 020-12345709 | 680 kg | General Cargo
+Position F7: AKE-45682 | AWB 020-12345710 | 720 kg | Textiles
+Position F8: AKE-45683 | EMPTY | 0 kg | Available
+
+AFT CARGO HOLD:
+Position A1: AAA-56791 | AWB 020-12345711 | 1520 kg | Machinery
+Position A2: AAA-56792 | AWB 020-12345712 | 1480 kg | Industrial Parts
+Position A3: AKE-45684 | AWB 020-12345713 | 780 kg | Electronics
+Position A4: AKE-45685 | AWB 020-12345714 | 820 kg | General Cargo
+Position A5: AKE-45686 | AWB 020-12345715 | 760 kg | Automotive Parts
+Position A6: AKN-67890 | AWB 020-12345716 | 1180 kg | Consolidated
+Position A7: AKN-67891 | AWB 020-12345717 | 1150 kg | General Cargo
+Position A8: AKE-45687 | EMPTY | 0 kg | Available
+Position A9: AKE-45688 | EMPTY | 0 kg | Available
+Position A10: AKE-45689 | EMPTY | 0 kg | Available
+
+REAR CARGO HOLD:
+Position R1: AKE-45690 | AWB 020-12345718 | 680 kg | General Cargo
+Position R2: AKE-45691 | AWB 020-12345719 | 650 kg | Textiles
+Position R3: AKE-45692 | AWB 020-12345720 | 620 kg | General Cargo
+Position R4: AKE-45693 | EMPTY | 0 kg | Available
+Position R5: AKE-45694 | EMPTY | 0 kg | Available
+Position R6: AKE-45695 | EMPTY | 0 kg | Available
+
+BULK CARGO:
+Position B1-B4: 280 kg loose cargo
+
+SUMMARY:
+Total ULDs Loaded: 19 out of 28 positions
+Total Cargo Weight: 13,100 kg (81% of capacity)
+Available Positions: 9
+Available Weight Capacity: 3,100 kg

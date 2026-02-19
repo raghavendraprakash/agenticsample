@@ -1,0 +1,62 @@
+HISTORICAL LOADING PATTERN ANALYSIS
+====================================
+
+Route: JFK (New York) to LHR (London)
+Aircraft Type: B777-300ER
+Analysis Period: Last 90 days
+Sample Size: 180 flights
+
+AVERAGE LOAD CHARACTERISTICS:
+Total ULDs per Flight: 24-28 (out of 32 positions)
+Average Cargo Weight: 14,200 kg (77% of capacity)
+Average Volume Utilization: 72%
+
+ULD TYPE DISTRIBUTION:
+AKE (LD3): 65% of positions
+AAA (LD7): 25% of positions
+AKN (LD8): 8% of positions
+Other: 2% of positions
+
+CARGO MIX PATTERNS:
+General Cargo: 55%
+Electronics: 20%
+Perishables: 12%
+Heavy Machinery: 8%
+Other: 5%
+
+POSITION UTILIZATION PATTERNS:
+Forward Positions (F1-F8): 95% utilization
+- Preferred for priority and perishable cargo
+- Average weight: 620 kg per position
+
+Aft Positions (A1-A12): 88% utilization
+- Mixed cargo types
+- Average weight: 580 kg per position
+
+Rear Positions (R1-R4): 65% utilization
+- Often used for last-minute bookings
+- Average weight: 450 kg per position
+
+PEAK LOADING DAYS:
+Monday: 92% capacity
+Tuesday: 88% capacity
+Wednesday: 85% capacity
+Thursday: 82% capacity
+Friday: 90% capacity
+Weekend: 65% capacity
+
+COMMON LOADING SEQUENCES:
+1. Heavy cargo in aft positions first
+2. Perishables in forward climate-controlled positions
+3. General cargo fills remaining positions
+4. Last-minute cargo in rear positions
+
+WEIGHT DISTRIBUTION:
+Forward: 35% of total weight
+Center: 40% of total weight
+Aft: 25% of total weight
+
+OPTIMIZATION OPPORTUNITIES:
+- Increase LD7 usage for consolidated shipments (potential 8% volume gain)
+- Better utilization of rear positions (current 65% vs 88% average)
+- Improved weight balance could allow 500 kg additional capacity

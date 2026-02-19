@@ -1,0 +1,74 @@
+ULD INVENTORY - STATION JFK
+============================
+
+Station: JFK (New York John F. Kennedy International)
+Date: 2026-02-20
+Time: 06:00 UTC
+
+AVAILABLE ULD INVENTORY:
+
+AKE (LD3) Containers:
+- Total Available: 45 units
+- Serviceable: 42 units
+- Under Maintenance: 3 units
+- Average Condition: Good
+- Last Inspection: 2026-02-15
+
+AAA (LD7) Containers:
+- Total Available: 28 units
+- Serviceable: 26 units
+- Under Maintenance: 2 units
+- Average Condition: Good
+- Last Inspection: 2026-02-16
+
+AKN (LD8) Containers:
+- Total Available: 32 units
+- Serviceable: 30 units
+- Under Maintenance: 2 units
+- Average Condition: Excellent
+- Last Inspection: 2026-02-17
+
+AAP (LD6) Containers:
+- Total Available: 22 units
+- Serviceable: 20 units
+- Under Maintenance: 2 units
+- Average Condition: Good
+- Last Inspection: 2026-02-14
+
+AMA (LD9) Containers:
+- Total Available: 12 units
+- Serviceable: 11 units
+- Under Maintenance: 1 unit
+- Average Condition: Good
+- Last Inspection: 2026-02-18
+
+PMC Pallets (96x125):
+- Total Available: 18 units
+- Serviceable: 16 units
+- Under Maintenance: 2 units
+- Average Condition: Fair
+- Last Inspection: 2026-02-13
+
+SPECIAL EQUIPMENT:
+
+Refrigerated Containers (RKN):
+- Total Available: 6 units
+- Serviceable: 5 units
+- Temperature Range: -20°C to +20°C
+
+AVI Containers (Live Animals):
+- Total Available: 4 units
+- Serviceable: 4 units
+- Features: Ventilation, water access
+
+UTILIZATION STATISTICS (Last 7 Days):
+- Average Daily Usage: 85 ULDs
+- Peak Usage: 112 ULDs (Monday)
+- Lowest Usage: 58 ULDs (Sunday)
+- Turnaround Time: 4.2 hours average
+
+MAINTENANCE SCHEDULE:
+- Routine inspections: Daily
+- Deep cleaning: Weekly
+- Structural inspection: Monthly
+- Certification renewal: Annually
