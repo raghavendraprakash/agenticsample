@@ -8,7 +8,7 @@ Orchestrator agent uses other agents as tools
 ### Key Components
 
 1. **Orchestrator Agent** - Central coordinator that routes requests to specialized agents
-2. **Specialized Agents** - Five domain-specific agents 
+2. **Specialized Agents** - Two domain-specific agents 
 3. **Knowledge Base** - Document retrieval for enhanced responses (Sample data is synthetic data set)
    
 ## What You'll Learn
